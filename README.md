@@ -12,5 +12,5 @@ You have to update `database.php` file in `src` folder.
 
 ### Notes:
 - The website contains only two endpoints:
-  - productList
-  - productAdd
+ - productList
+ - productAdd
