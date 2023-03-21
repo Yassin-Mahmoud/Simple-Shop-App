@@ -10,7 +10,7 @@ You have to update `database.php` file in `src` folder.
 - DB password
 - DB name
 
-### Notes:
+## Notes:
 - The website contains only two endpoints:
   - productList -> for displaying the added products from the databae
   - productAdd  -> for adding products to the database
