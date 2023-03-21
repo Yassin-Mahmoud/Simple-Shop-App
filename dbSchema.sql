@@ -1,0 +1,12 @@
+CREATE DATABASE scandiweb_task;
+
+USE scandiweb_task;
+
+CREATE TABLE products 
+(id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+ sku VARCHAR(255) NOT NULL, 
+ name VARCHAR(255) NOT NULL, 
+ price INT(20) NOT NULL,
+ size INT(20) DEFAULT 0, 
+ weight INT(20) DEFAULT 0, 
+ dimensions VARCHAR(255) DEFAULT '0x0x0');
