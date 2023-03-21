@@ -3,7 +3,7 @@
 
 ## Getting started:
 You have to update `database.php` file in `src` folder.
-### - Values:
+#### - Values:
 - DB host/server
 - DB username
 - DB password
